@@ -5,6 +5,8 @@ Hasil :
 
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1a.png)
 
+Gunakan fungsi ``dgeom``
+
 ## 1b
 ## 1c
 ## 1d
