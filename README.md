@@ -14,12 +14,12 @@ Gunakan fungsi ``rgeom`` untuk mendapatkan data random , isikan sesuai dengan ni
 Nilai probabilitas distribusi geometris dari poin (a) dan (b) tidak jauh beda, mirip2.
 
 ## 1d
-![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1d.png)
+![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1dn.png)
 
 Generate data random untuk distribusi geometrik dengan ``rgeom``. Lalu, gunakan fungsi ``hist`` untuk membuat histogramnya.
 
 ## 1e
-![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1e.png)
+![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1en.png)
 
 Gunakan fungsi ``mean`` untuk mean dan ``var`` untuk varians dari data random distribusi geometrik sebelumnya.
 
