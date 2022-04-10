@@ -1,13 +1,12 @@
 # P1_Probstat_F_05111940000201
 
 ## 1a
-Hasil :
-
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1a.png)
 
-Gunakan fungsi ``dgeom``
+Gunakan fungsi ``dgeom``, sesuaikan argumen ``x`` dan ``prob`` dengan yang diketahui dalam soal.
 
 ## 1b
+
 ## 1c
 ## 1d
 ## 1e
