@@ -34,9 +34,9 @@ Formula untuk distribusi binomial `binom_prob<-rbinom(n = 4 ,size=20, prob=0.2)`
 Gunakan `hist` untuk menampilkan histogramnya.
 
 ## 2c
-![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/2c.png)
+Formula untuk `mean` adalah variabel `m_bin`. Varians adalah `v_bin`. Hasilnya demikian :
 
-Gunakan fungsi ``mean`` untuk mean dan ``var`` untuk varians dari data random distribusi binomial sebelumnya.
+![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/2cn.png)
 
 ## 3a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/3a.png)
