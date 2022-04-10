@@ -5,24 +5,44 @@ dgeom(x = 3, prob = 0.20)
 mean(rgeom(n = 10000, prob = 0.20) == 3)
 
 #1d
-index <- (1:10)   
-geom_p <- dgeom(index, prob = 0.20)    
-hist(geom_p)
+p = 0.20
+n=3
+library(dplyr)
+library(ggplot2)
+
+data.frame(x = 0:10, prob = dgeom(x = 0:10, prob = p)) %>%
+  mutate(Failures = ifelse(x == n, n, "lain")) %>%
+  ggplot(aes(x = factor(x), y = prob, fill = Failures)) +
+  geom_col() +
+  geom_text(
+    aes(label = round(prob,2), y = prob + 0.01),
+    position = position_dodge(0.9),
+    size = 3,
+    vjust = 0
+  ) +
+  labs(title = "Probability of X = 3 Gagal sebelum bertemu",
+       subtitle = "Geometric(.2)",
+       x = "Gagal sebelum bertemu (x)",
+       y = "Probabilitas") 
 
 #1e
-mean(geom_p)
-var(geom_p)
+m_data <-  1/ p
+v_data<-(1 - p) / p^2
 
 #2a
 dbinom(x = 4, size = 20, prob = 0.2)
 
 #2b
-binom_prob<- dbinom(index,size=20, prob=0.2)
+binom_prob<-rbinom(n = 4 ,size=20, prob=0.2)
 hist(binom_prob)
 
 #2c
-mean(binom_prob)
-var(binom_prob)
+n = 20
+p = 0.2
+q=0.8
+m_bin<- n*p
+v_bin<- n*p*q
+
 
 #3a
 dpois(x=6, lambda = 4.5)
@@ -30,10 +50,6 @@ dpois(x=6, lambda = 4.5)
 #3b
 pois_prob<- dpois(x = 6, lambda = 4.5 * 365)
 hist(pois_prob)
-
-#3c
-mean(pois_prob)
-var(pois_prob)
 
 #4a
 dchisq(x = 2, df =10)
