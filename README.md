@@ -83,6 +83,7 @@ Gunakan fungsi probabilitas ``dexp`` menggunakan data random dari fungsi ``rexp`
 Buat distribusi eksponensial dengan data random menggunakan fungsi ``rexp`` sesuaikan dengan masing-masing nilai. Lalu tampilkan dengan fungsi ``hist`` untuk masing-masing nilai.
 
 Hasil : 
+
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/5b_10.png)
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/5b_100.png)
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/5b_1000.png)
