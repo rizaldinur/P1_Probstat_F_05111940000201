@@ -11,7 +11,7 @@ Gunakan fungsi ``dgeom``, sesuaikan argumen ``x`` dan ``prob`` dengan nilai yang
 Gunakan fungsi ``rgeom`` untuk mendapatkan data random , isikan sesuai dengan nilai yang diketahui dalam soal. Lalu, gunakan fungsi ``mean`` untuk menghitung mean/rata-ratanya.
 
 ## 1c
-Nilai probabilitas distribusi geometris dari poin (a) dan (b) tidak jauh beda.
+Nilai probabilitas distribusi geometris dari poin (a) dan (b) tidak jauh beda, mirip2.
 
 ## 1d
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1d.png)
