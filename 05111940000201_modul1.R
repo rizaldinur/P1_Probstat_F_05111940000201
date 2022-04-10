@@ -59,8 +59,9 @@ chisq_prob <- rchisq(100, df=10)
 hist(chisq_prob)
 
 #4c
-mean(chisq_prob)
-var(chisq_prob)
+df = 10
+m_chi <- df
+v_chi<-2*df
 
 #5a
 set.seed(1)
