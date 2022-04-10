@@ -57,6 +57,7 @@ Pada poin a kejadian masih memungkinkan, sedangkan pada poin b menjadi tidak mun
 
 ## 3d
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/3d.png)
+
 ``mean`` dan ``var`` hasilnya 0 dan NA karena peluangnya 0.
 
 ## 4a
