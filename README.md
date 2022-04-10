@@ -56,9 +56,7 @@ Karena peluangnya 0.
 Pada poin a kejadian masih memungkinkan, sedangkan pada poin b menjadi tidak mungkin.
 
 ## 3d
-![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/3d.png)
-
-``mean`` dan ``var`` hasilnya 0 dan NA karena peluangnya 0.
+Rumus `lambda = mean = varians`. Sehingga `mean = varians = 4.5`.
 
 ## 4a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/4a.png)
