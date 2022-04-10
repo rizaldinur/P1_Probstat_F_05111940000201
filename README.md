@@ -69,9 +69,9 @@ Gunakan fungsi ``dchsq``.
 Buat random distribusi chi-square dengan fungsi ``rchisq`` lalu tampilkan dengan fungsi ``hist``.
 
 ## 4c
-![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/4c.png)
+Formula untuk chi-square distribution mean adalah `μ=df` dan variansnya adalah `σ=2df`. Perhitungan dan hasilnya sebagai berikut :
 
-Gunakan fungsi ``mean`` untuk mean dan ``var`` untuk varians dari data random distribusi chi-square sebelumnya.
+![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/4cn.png)
 
 ## 5a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/5a.png)
