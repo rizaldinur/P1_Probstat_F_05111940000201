@@ -27,8 +27,7 @@ Gunakan rumus mean `1 / p` dan varians `(1 - p) / p^2` untuk distribusi geometri
 Gunakan fungsi ``dbinom``, isi argumen dengan nilai yang diketahui dalam soal.
 
 ## 2b
-Formula untuk distribusi binomial `binom_prob<-rbinom(n = 4 ,size=20, prob=0.2)`
-Hasil : 
+Formula untuk distribusi binomial `binom_prob<-rbinom(n = 4 ,size=20, prob=0.2)`. Hasil : 
 
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/2bn.png)
 
