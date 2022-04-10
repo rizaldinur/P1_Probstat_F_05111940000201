@@ -45,6 +45,7 @@ Gunakan fungsi ``dpois``, isi argumen dengan nilai yang diketahui dalam soal.
 
 ## 3b
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/3b0.png)
+
 Hasilnya : 
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/3b.png)
 
