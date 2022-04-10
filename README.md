@@ -97,7 +97,7 @@ Gunakan fungsi ``mean`` untuk mean dan ``var`` untuk varians dari distribusi eks
 ## 6a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/6a.png)
 
-Gunakan fungsi ``rnorm``, isikan argumen sesuai nilai yang diketahui dalam soal.
+Gunakan fungsi ``rnorm``, isikan argumen sesuai nilai yang diketahui dalam soal. Lalu buat plottingnya dengan fungsi ``plot``.
 
 ## 6b
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/6b.png)
