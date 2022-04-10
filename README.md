@@ -3,10 +3,12 @@
 ## 1a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1a.png)
 
-Gunakan fungsi ``dgeom``, sesuaikan argumen ``x`` dan ``prob`` dengan yang diketahui dalam soal.
+Gunakan fungsi ``dgeom``, sesuaikan argumen ``x`` dan ``prob`` dengan nilai yang diketahui dalam soal.
 
 ## 1b
+![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1b.png)
 
+Gunakan fungsi ``rgeom`` untuk mendapatkan data random , isikan sesuai dengan nilai yang diketahui dalam soal. Lalu, gunakan fungsi ``mean`` untuk menghitung mean/rata-ratanya.
 ## 1c
 ## 1d
 ## 1e
