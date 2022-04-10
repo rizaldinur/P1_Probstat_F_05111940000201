@@ -19,7 +19,7 @@ Nilai probabilitas distribusi geometris dari poin (a) dan (b) tidak jauh beda, m
 ## 1e
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1en.png)
 
-Gunakan rumus mean dan varians untuk distribusi geometrik.
+Gunakan rumus mean `1 / p` dan varians `(1 - p) / p^2` untuk distribusi geometrik.
 
 ## 2a
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/2a.png)
