@@ -1,7 +1,8 @@
 # P1_Probstat_F_05111940000201
 
 ## 1a
-Hasil : 
+Hasil :
+
 ![alt text](https://github.com/rizaldinur/P1_Probstat_F_05111940000201/blob/main/screenshot/1a.png)
 
 ## 1b
